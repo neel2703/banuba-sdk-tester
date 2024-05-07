@@ -31,7 +31,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 cmake==3.28.1
 coloredlogs==15.0.1
-conda==4.10.1
+conda
 conda-package-handling
 contourpy==1.2.0
 cryptography==42.0.2
